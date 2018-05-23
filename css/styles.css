@@ -3,11 +3,6 @@ body {
   background-color: beige;
 }
 
-p.intro {
-  width: 50%;
-  font-style: italic;
- }
-
 
 .pow {
   color: red;
@@ -21,11 +16,4 @@ p.intro {
  font-family: cursive;
  color: maroon;
  text-align: center;
-}
-
-table {
-  background-color: #333333;
-  text-align: left;
-  padding: 2px;
-  color: white;
 }
